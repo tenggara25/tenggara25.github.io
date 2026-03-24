@@ -1,11 +1,13 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+# Alamsyah H. - Portfolio 🔒
+> https://tenggara25.github.io/
+
+Backend Developer | Cybersecurity Enthusiast | API Development & Security
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/tenggara25/tenggara25.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://tenggara25.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alamsyahhutama/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
@@ -16,7 +18,7 @@
 #### About Page
 <img src="website_images/AboutPage.png" width="900">
 
-
+ya
 #### Projects Page
 <img src="website_images/ProjectPage.png" width="900">
   
@@ -25,51 +27,65 @@
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
-⚡️ Fully Responsive\
+⚡️ Clean & Professional Design\
+⚡️ Fully Responsive Layout\
 ⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+⚡️ Smooth Animations with `Typed.js`\
+⚡️ Easy to Customize & Deploy\
+⚡️ Fast Load Times\
+⚡️ SEO Friendly
 
 ## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/tenggara25/tenggara25.github.io.git
+   cd tenggara25.github.io
+   ```
+2. Modify content in `index.html` with your personal information
+3. Update project details in the `projects/` folder
+4. Add or replace images in `assets/img/` as needed
+5. Push changes to your GitHub repository:
+   ```bash
+   git add .
+   git commit -m "Update portfolio content"
+   git push origin master
+   ```
+6. Enable GitHub Pages in your repository settings (master branch)
 
 ## Sections 📚
-✔️ About\
-✔️ Interests\
+✔️ About & Background\
+✔️ Skills & Expertise\
+✔️ Technical Skills (Backend, Security, API Development)\
+✔️ Professional Experience\
 ✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+✔️ Certifications & Training\
+✔️ Featured Projects\
+✔️ Contact Information
 
 
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+## Technologies & Tools 🛠️
+* <b>Frontend:</b> HTML5, CSS3, JavaScript, Bootstrap, jQuery
+* <b>Backend:</b> API Development, Server-side Architecture
+* <b>Security:</b> OWASP Top 10, Penetration Testing, Vulnerability Assessment
+* <b>Hosting:</b> GitHub Pages
+* <b>Version Control:</b> Git & GitHub
 
-## Contributing 💡
-#### Step 1
+## Want to Use This Template? 💡
 
-- **Option 1**
-    - 🍴 Fork this repo!
+Feel free to fork this repository and create your own portfolio!
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+#### Quick Start:
+1. 🍴 Fork this repository
+2. Clone to your local machine
+3. 📝 Customize with your information
+4. 🚀 Deploy to GitHub Pages
 
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
+#### Support:
+If you find this template helpful, please consider:
+- ⭐ Giving it a star on GitHub
+- 🔄 Sharing it with others
+- 💬 Opening discussions for improvements
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
