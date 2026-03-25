@@ -709,6 +709,20 @@ section .container {
   margin-bottom: 0;
 }
 
+.services .icon-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.services .icon-box ul li {
+  text-align: left;
+  padding: 8px 0;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
 .services .icon-box:hover {
   background: #042e5f;
   border-color: #1c7d32;
@@ -1095,4 +1109,58 @@ section .container {
     right: 0;
     transform: translateX(-50%);
   }
+}
+
+/*--------------------------------------------------------------
+# Coursework List
+--------------------------------------------------------------*/
+.coursework-list {
+  list-style: none !important;
+  padding-left: 25px !important;
+  margin: 0 !important;
+}
+
+.coursework-list li {
+  padding: 10px 0 !important;
+  font-size: 14px !important;
+  line-height: 22px;
+  color: #fff !important;
+  position: relative;
+  padding-left: 20px !important;
+}
+
+.coursework-list li:before {
+  content: "▪ ";
+  color: #12d640;
+  font-weight: bold;
+  margin-right: 10px;
+  position: absolute;
+  left: 0;
+}
+
+/*--------------------------------------------------------------
+# Job Responsibilities List
+--------------------------------------------------------------*/
+.job-responsibilities {
+  list-style: none !important;
+  padding-left: 25px !important;
+  margin: 0 !important;
+}
+
+.job-responsibilities li {
+  padding: 12px 0 !important;
+  font-size: 14px !important;
+  line-height: 24px;
+  color: #fff !important;
+  position: relative;
+  padding-left: 20px !important;
+}
+
+.job-responsibilities li:before {
+  content: "▪ ";
+  color: #12d640;
+  font-weight: bold;
+  margin-right: 10px;
+  position: absolute;
+  left: 0;
 }
